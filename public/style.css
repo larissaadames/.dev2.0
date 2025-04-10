@@ -1,0 +1,10 @@
+.ladoEsquerdo{
+    justify-content: left;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    display: flex;
+}
+.ladoDireito{
+    justify-content: right;
+    position: sticky;
+}
